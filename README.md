@@ -23,9 +23,6 @@ My name is Konstantin Andrianov, I am Frontend Developer from Moscow.
 [Backend: Node Express MongoDB](https://github.com/anrypwnz/news-explorer-api)
 
 
-### 🎧 What I am listening
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tze6x6mce6tfnp72n1qvamj27&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
